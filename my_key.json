@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nodal-skein-268705",
+  "private_key_id": "fc8c91d9c686497ec89f55e27479c0bcedffd012",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDqyxP3WYWtoNGR\nSMS2aos9Z62uREWnFRGDPxpprb5N5uWOZyIRSl6EOAu3AdBQcZ87NSR23q1op59j\nPeG3Ma4SDAINH4dmh/69BGminjHMiOvrOHWRFMI9sTPnwLmz4zULEDwykeOBhN64\nDpp6N3TSscH2i4cUa1+TKbdbmISRpfG43DXeyaSJf7+Esku/sx1de3OWWHRQxUzd\nzsch8pc1gyR4cn9bl37Ld1mP2mzte5jK8xSlQgCgyXX5h93bjs1vPokV6LQULDHy\ns2dnEvIXUa84jp9hIZ2MZqfnT9XUYPRm9MNPx+vpGo7a3qA6Lb7e2XEluN2F6Odg\nIxj5SCq1AgMBAAECggEACZy0vYyZr2kFC1iaTQmBl8r1zkuXOmbfZ6serrLhNpk8\nTp8kQubzhaAxwpU9bP2p0iezzXYCTWWHXe27nt9WzABX2SewSF9K63wRwwmM6l20\notWV4pGh/hqSEGvQbm/fzQsmG7/jO3swDwLyCgzZKIMEeM5vgkN/DyxHCGXvD3NS\no/Mr8p0SKDxX58s7ERCXFn4SoaMfGjdFgkg9P71fX+kUSGHp/MB0UVz5fdMd/tM4\n8H+SYRFrhSKDqgC7i4jubD85o+cPK7ss90Prxjr7zQcZ1JJ1h9Vu2ZkQmyZMJIlQ\n6Wnd7F8ikNUwy1PR+onk3exW9bT3OfJd+c78a9dWoQKBgQD8XElPYeIT667xPjrW\nJ46uuO6NWu26UMhPT5EJ0IRrSoo+BRMXA3Lx9ODuR9cAi+2gAnAysoIh7a+4QaG6\nNtzh4ne56x5lNtNAGMC63n6n3Pb9kpAowOVEUJ+0dGyG6KbD/5ahyk3VkqrigBTi\nfxv6r39W331uTLgC+RTRC3o+7QKBgQDuLe78dDhO8Phjx0PB5gi/QtRakkTGqHTb\n0jN6uFMQB4265alqMGhiTN//k4ZBWqnzd3RkISQACsjAoHv8HaLxo7W9mTb6umRs\naxX5VB+war1FkuIdetYX3vInnuI7Fxj9SW2my1DHPb8wpYkFKasPfDy5zgQBH0bY\nXQpxQqbZ6QKBgFqk+2AcFIx7N1dHtvJ9Ou7fVjBH3OPzaD+0oLAZybaQC5/DStwV\nTRBDmRd9jmiP2kaDGbHcFIoDSf6w9FpiomwwYDjTjxNj4fU/7towWOYKpFzobAd3\nYeJr4zF6MBE1N9Fm2MA8XkC8cczxnI7OgUpGB0M4+2DHBcFrnmKH8NzxAoGBAMgf\n/EBO/skFnA9qbLpNKGhcJMV9RSCOhrH1KqAgpFpBnoq9Ud4RkoOWCFhcgmADZ+1U\nH43Kcs8+QHPp5INv+2uBnMEULaf6WUrnp2z5jC7VYPdGdYtDnQQtpdY4n+n6fFrG\nCcYt60+dyDl9vWWDH2JBh1yvh5nRx9sgQhfsYvmRAoGBAICnZBKV5W0sS4O6u6Z/\niQU0ePLeenA96srFmu0LZNPVwWbQyc2QG8PavjX9LMcjbKYkXIu3hRDPylY0epYF\nO2+0Y1N79lb+qqB/tJOw4HIqWSi/naYd/+6EUAA9cBTmx6gUWLtNXexH6eCShGGI\nxjp5gOYqokkc8SKs60ZDQqLX\n-----END PRIVATE KEY-----\n",
+  "client_email": "spreadsheet@nodal-skein-268705.iam.gserviceaccount.com",
+  "client_id": "108439321644571497810",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spreadsheet%40nodal-skein-268705.iam.gserviceaccount.com"
+}
